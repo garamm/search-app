@@ -7,7 +7,6 @@ GET /blog/search<br>
 HOST: localhost:8080
 
 ### Request
-Name	Type	Description	Required
 
 | Name  | Type    | Description                              | Required |
 |-------|---------|------------------------------------------|----------|
@@ -45,7 +44,6 @@ GET /blog/top<br>
 HOST: localhost:8080
 
 ### Request
-Name	Type	Description	Required
 
 | Name  | Type    | Description                              | Required |
 |-------|---------|------------------------------------------|--------|
